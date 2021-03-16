@@ -12,11 +12,11 @@ apply_patch()
 ### What you should see on `client.connect()`
 On successful application of the patch, wise words will be spoken by `cowsay`
 ```
-[patching max response size]                                                                        
-                                                                                                    
-            ^__^                                                                                    
-            (oo)\_______                                                                            
-            (__)\       )\/\                                                                        
-                ||----w |                                                                           
-  w w w w w     ||     || 
-```
+[patching max response size]
+
+            ^__^            
+            (oo)\_______    
+            (__)\       )\/\ 
+                ||----w |   
+  w w w w w     ||     ||
+  ```
